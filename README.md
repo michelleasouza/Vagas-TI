@@ -1,2 +1,2 @@
 # Vagas-TI
-Espaço para divulgação de vagas de TI
+Espaço para divulgação de vagas diversas de TI
